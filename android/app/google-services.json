@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738880502085",
+    "project_id": "reuniones-cunori",
+    "storage_bucket": "reuniones-cunori.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738880502085:android:96cd413481bc576bf5e62c",
+        "android_client_info": {
+          "package_name": "cunori.edu.gt.reuniones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738880502085-p8820unugctpfnvjmo4r2ul1p9gqak2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZNKp_cM73jwikMI0tTC1uBx9-Qu1Ib28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738880502085-p8820unugctpfnvjmo4r2ul1p9gqak2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
